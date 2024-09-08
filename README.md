@@ -3,7 +3,6 @@
 - 🤗 I'm Dave Dañosos, aka papalem
 - 🌱 I’m currently learning python, java, JavaScript, and cpp
 - 💀 BSCS student from WVSU Iloilo, Philippines
-- 🔥 fun fact: I only using an Android Phone.
 - 💻 future web app developer, game dev, cyber security, Pc technician, architect and civil engineer.
 
 ### Connect with Me
