@@ -78,10 +78,10 @@ Tech: Machine Learning, Python
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1129Papadeb&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Laymedabe&show_icons=true&theme=default)
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/1129Papadeb  
+- GitHub: https://github.com/Laymedabe  
 
