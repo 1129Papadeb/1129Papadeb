@@ -1,6 +1,6 @@
 # Hi, I'm Lemuel Dave 👋
 
-🎓 Computer Science student & **Full-Stack Developer**  
+🎓 IT & **Full-Stack Developer**  
 🤖 Interested in AI, Machine Learning, and Applied Research  
 🌱 Currently learning: Deep Learning, Computer Vision, and NLP  
 📍 Philippines
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I'm a computer science student and full-stack developer passionate about building **intelligent systems** and **practical software solutions**.  
+I'm a full-stack developer passionate about building **intelligent systems** and **practical software solutions**.  
 I enjoy working on projects that combine **AI-assisted applications**, **web & mobile development**, **image processing**, and **data-driven systems**.
 
 I believe in learning by building and documenting my work clearly.
@@ -52,7 +52,7 @@ I believe in learning by building and documenting my work clearly.
 - TensorFlow  
 - PyTorch  
 - OpenCV  
-- YOLOv8  
+- YOLO 
 
 ### DevOps & Deployment
 - Git & GitHub  
